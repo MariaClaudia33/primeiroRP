@@ -1,2 +1,4 @@
 # primeiroRP
- PRIMEIRO REPOSITÓRIO
+ PRIMEIRO REPOSITÓRIO de git e gitHub
+
+Meu primeiro repositório 
